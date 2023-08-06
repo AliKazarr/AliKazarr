@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **Web Development,Front-End Development**
+- 💬 Ask me about **Web Development,Front-End Development,React Development**
 
 - 📫 How to reach me **kazarali1907@gmail.com**
 
