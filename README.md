@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alikazarr&label=Profile%20views&color=0e75b6&style=flat" alt="alikazarr" /> </p>
 
-- 🔭 I’m currently working on **e-commerce**
+- 🔭 The most used word of a programmer: 'Why doesn't it work or why does it work? :) '**
 
 - 🌱 I’m currently learning **React Js**
 
